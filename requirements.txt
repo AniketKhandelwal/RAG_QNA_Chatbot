@@ -1,0 +1,13 @@
+pandas 
+numpy
+matplotlib
+seaborn
+sentence-transformers
+transformers
+faiss-cpu
+torch
+google-generativeai
+python-dotenv
+tqdm
+streamlit
+
